@@ -3,13 +3,7 @@ Tool that simply curles all available data from https://www.ndbc.noaa.gov/to_sta
 The data is stored according to it's type (basic meteo parameters, wave spectra info etc)
 folllowing this convention:
 <code style="color : name_color">'stdmet'</code>, <code style="color : name_color">'swden'</code>, <code style="color : name_color">'swdir'</code>,
-<code style="color : name_color">'swdir2'</code>, <code style="color : name_color">'swr1'</code>, <code style="color : name_color">'swr2'</code>,
-# {'stdmet': {'name': 'Standard meteoroligcal data', 'url_char': 'h'},
-# 'swden': {'name': 'Spectral Wave Density data', 'url_char': 'w'},
-# 'swdir': {'name': 'Spectral wave (alpha1) direction data', 'url_char': 'd'},
-# 'swdir2': {'name': 'Spectral wave (alpha2) direction data', 'url_char': 'i'},
-# 'swr1': {'name': 'Spectral wave (r1) direction data', 'url_char': 'j'},
-# 'swr2': {'name': 'Spectral wave (r2) direction data', 'url_char': 'k'}}
+<code style="color : name_color">'swdir2'</code>, <code style="color : name_color">'swr1'</code>, <code style="color : name_color">'swr2'</code>
 <table>
   <thead>
     <tr>
