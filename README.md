@@ -2,6 +2,7 @@
 Tool that simply curles all available data from https://www.ndbc.noaa.gov/to_station.shtml
 The data is stored according to it's type (basic meteo parameters, wave spectra info etc)
 folllowing this convention:
+<code style="color : name_color">'stdmet'</code>
 # {'stdmet': {'name': 'Standard meteoroligcal data', 'url_char': 'h'},
 # 'swden': {'name': 'Spectral Wave Density data', 'url_char': 'w'},
 # 'swdir': {'name': 'Spectral wave (alpha1) direction data', 'url_char': 'd'},
