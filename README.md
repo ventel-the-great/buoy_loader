@@ -23,24 +23,30 @@ folllowing this convention:
       <td style="padding:6px; background:#ffdddd; color:#800000;">stdmet</td>
       <td style="padding:6px; background:#ddeeff; color:#002a66;">Standard meteoroligcal data</td>
       <td style="padding:6px; background:#f0f0f0; color:#333333;">h</td>
-      <td style="padding:6px; background:#ffdddd; color:#006400;">swdir2</td>
-      <td style="padding:6px; background:#fff2cc; color:#006400;">swr1</td>
-      <td style="padding:6px; background:#ddffdd; color:#006400;">swr2</td>
     </tr>
     <tr>
       <td style="padding:6px; background:#fff2cc; color:#806000;">swden</td>
       <td style="padding:6px; background:#ddffdd; color:#006400;">Spectral Wave Density data</td>
-      <td style="padding:6px; background:#ffebcc; color:#804000;">Spectral wave (alpha1) direction data</td>
-      <td style="padding:6px; background:#ddeeff; color:#002a66;">Spectral wave (alpha2) direction data</td>
-      <td style="padding:6px; background:#ddffdd; color:#006400;">Spectral wave (r1) direction data</td>
-      <td style="padding:6px; background:#ffebcc; color:#804000;">Spectral wave (r2) direction data</td>
+      <td style="padding:6px; background:#ffd9e6; color:#800033;">w</td>
     </tr>
     <tr>
-
-      <td style="padding:6px; background:#ffd9e6; color:#800033;">w</td>
-      <td style="padding:6px; background:#e6f7ff; color:#00334d;">d</td>
-      <td style="padding:6px; background:#f0f0f0; color:#333333;">i</td>
-      <td style="padding:6px; background:#ffd9e6; color:#800033;">j</td>
+      <td style="padding:6px; background:#ffdddd; color:#006400;">swdir</td>
+      <td style="padding:6px; background:#ffebcc; color:#804000;">Spectral wave (alpha1) direction data</td>
+      <td style="padding:6px; background:#e6f7ff; color:#00334d;">d</td>      
+    </tr>   
+    <tr>
+      <td style="padding:6px; background:#ffdddd; color:#006400;">swdir2</td>
+      <td style="padding:6px; background:#ddeeff; color:#002a66;">Spectral wave (alpha2) direction data</td>
+      <td style="padding:6px; background:#e6f7ff; color:#00334d;">i</td>      
+    </tr>   
+    <tr>
+      <td style="padding:6px; background:#ffdddd; color:#006400;">swr1</td>
+      <td style="padding:6px; background:#ddeeff; color:#002a66;">Spectral wave (r1) direction data</td>
+      <td style="padding:6px; background:#e6f7ff; color:#00334d;">j</td>      
+    </tr>  
+    <tr>
+      <td style="padding:6px; background:#ffdddd; color:#006400;">swr2</td>
+      <td style="padding:6px; background:#ffebcc; color:#804000;">Spectral wave (r2) direction data</td>
       <td style="padding:6px; background:#e6f7ff; color:#00334d;">k</td>
     </tr>
   </tbody>
