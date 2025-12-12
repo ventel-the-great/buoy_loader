@@ -10,5 +10,5 @@ folllowing this convention:
 # 'swr2': {'name': 'Spectral wave (r2) direction data', 'url_char': 'k'}}
 If you want to download available ndbc buoy data starting "Before Christ" (BC) till the present time
 use 
-# {./download.sh} 
+# ./download.sh
 command together with file list (download.ndbc_stdmet) generated automatically through ndbc web site.
