@@ -49,4 +49,4 @@ folllowing this convention:
 If you want to download available ndbc buoy data starting "Before Christ" (BC) till the present time
 use 
 # ./download.sh
-command together with file list (download.ndbc_stdmet) generated automatically through ndbc web site.
+command together with file list (<code style="color : name_color">download.ndbc_stdmet</code>) generated automatically through ndbc web site.
